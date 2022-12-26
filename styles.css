@@ -1,2 +1,33 @@
 
-/* Your CSS Code here. */
+aside {
+    float: right;
+    width: 20%;
+    height: 570px;
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+
+  article {
+    float: left;
+    padding: 20px;
+    width: 40%;
+    background-color: #f1f1f1;
+    height: 570px;
+  }
+
+  .w30 {
+    float:left;
+    padding: 20px;
+    width:40%;
+    background-color: #ccc;
+    height: 570px;
+  }
+
+  footer {
+    background-color: #777;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    float: left;
+    width: 100%;
+  }
